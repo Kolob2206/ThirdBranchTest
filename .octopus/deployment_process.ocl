@@ -1,3 +1,5 @@
+comment
+
 step "Hello world (using PowerShell)" {
 
     action {
