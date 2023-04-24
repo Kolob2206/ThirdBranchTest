@@ -11,7 +11,7 @@ step "Hello world (using PowerShell)" {
         }
     }
 }
-# comment
+
 step "Hello world (using Bash)" {
     start_trigger = "StartWithPrevious"
 
